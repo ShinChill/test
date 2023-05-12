@@ -1,1 +1,1 @@
-# test
+# Lấy cấu hình máy tính 
